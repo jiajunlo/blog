@@ -1,0 +1,40 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+* {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+::selection {
+	background: #8DEEEE;
+}
+
+a {
+	color: #666;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #56a7fa;
+}
+
+p {
+	font-size: 0.85em;
+	margin-bottom: 3px;
+}
+
+body {
+	background-color: #fff;
+	color: #666;
+	font-family: arial, sans-serif;
+}
+
+.wrap {
+	margin: 100px;
+}
+
+p.sub {
+	margin: 10px 0 0 0; 
+}
